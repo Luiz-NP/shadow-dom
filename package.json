@@ -1,6 +1,7 @@
 {
-  "name": "shadowDOM",
+  "name": "shadow-dom",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Luiz"
 }
