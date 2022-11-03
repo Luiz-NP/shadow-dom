@@ -1,1 +1,3 @@
-- #### studying web components structure with shadow-dom
+```js
+  studying web components structure with shadow-dom
+```
